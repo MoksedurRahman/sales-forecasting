@@ -35,7 +35,7 @@ Forecasting future sales helps businesses in inventory planning, demand estimati
 
 ## 📊 Dataset
 
-Dataset: [Insert name and source of the dataset here, e.g., Kaggle - Rossmann Sales](https://www.kaggle.com/c/rossmann-store-sales)
+Dataset: [Insert name and source of the dataset here, e.g., Kaggle - Rossmann Sales](https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset)
 
 ---
 
@@ -43,7 +43,7 @@ Dataset: [Insert name and source of the dataset here, e.g., Kaggle - Rossmann Sa
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/MoksedurRahman/sales-forecasting-time-series.git
+   git clone https://github.com/MoksedurRahman/sales-forecasting.git
    cd sales-forecasting-time-series
 # sales-forecasting
 This project demonstrates how to forecast future sales using historical data with Time Series Forecasting techniques. It includes preprocessing, model training, evaluation, and visualization of results.
