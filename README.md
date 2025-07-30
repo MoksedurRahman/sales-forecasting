@@ -35,7 +35,7 @@ Forecasting future sales helps businesses in inventory planning, demand estimati
 
 ## 📊 Dataset
 
-Dataset: [Insert name and source of the dataset here, e.g., Kaggle - Rossmann Sales](https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset)
+Dataset: [Kaggle - Tanaya Tipre](https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset)
 
 ---
 
